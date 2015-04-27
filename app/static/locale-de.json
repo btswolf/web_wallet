@@ -155,7 +155,7 @@
     "desc_content_1": "BitShares ist eine vollständig dezentrale Handelsplattform auf der Sie BitAssets aller Art handeln können. Zum Beispiel: BitGLD = XAU(Gold)",
     "desc_content_2": "Weitere Informationen und Hilfe zu BitShares erhalten Sie unter http://bitsharestalk.org und http://wiki.bitshares.org",
     "wrong_pass": "Falsches Passwort.",
-    "risks_warning": "Warning: Es handelt sich um experimentelle Software. Vergewissern Sie sich, dass Sie die Risiken verstanden haben."
+    "risks_warning": "WARNUNG: DIE NUTZUNG DIESER SOFTWARE GESCHIEHT AUF EIGENE GEFAHR."
   },
   "wallet": {
     "create_new_wallet": "Neue Kontensammlung (Wallet) erstellen",
